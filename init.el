@@ -16,3 +16,6 @@
 
 (require 'smooth-scrolling)
 (set 'smooth-scroll-margin 1)
+
+(require 'flycheck)
+(global-flycheck-mode t)
