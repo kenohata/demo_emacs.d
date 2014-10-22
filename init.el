@@ -5,3 +5,4 @@
 (setq-default truncate-lines t)
 (setq-default inhibit-startup-screen t)
 (setq-default inhibit-splash-screen t)
+(menu-bar-mode -1)
