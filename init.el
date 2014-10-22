@@ -1,3 +1,7 @@
+(require 'package)
+(add-to-list 'package-archives '("melpa" . "http://melpa.milkbox.net/packages/"))
+(package-initialize)
+
 (setq-default indent-tabs-mode nil)
 (setq-default tab-width 2)
 (setq-default make-backup-files nil)
