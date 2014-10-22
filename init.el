@@ -13,3 +13,6 @@
 
 (require 'helm-config)
 (helm-mode 1)
+
+(require 'smooth-scrolling)
+(set 'smooth-scroll-margin 1)
