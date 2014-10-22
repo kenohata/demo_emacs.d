@@ -2,3 +2,4 @@
 (setq-default tab-width 2)
 (setq-default make-backup-files nil)
 (setq-default auto-save-default nil)
+(setq-default truncate-lines t)
